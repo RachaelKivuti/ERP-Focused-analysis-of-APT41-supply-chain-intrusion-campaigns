@@ -78,4 +78,4 @@ Key sources include:
 
 Full references are provided in the final report.
 
-**Author:** Rachael Ngatha Kivuti   
+**Author:** Rachael Kivuti   
