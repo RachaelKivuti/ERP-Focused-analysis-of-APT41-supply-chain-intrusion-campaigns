@@ -66,6 +66,13 @@ Each technique is mapped to:
 
 ---
 
+## Academic Context
+
+This project was completed in fulfillment of capstone requirements for the  
+**ICDFA Cyberwarfare Program (ACW905)**
+
+---
+
 ## References
 
 Key sources include:
