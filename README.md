@@ -85,4 +85,6 @@ Key sources include:
 
 Full references are provided in the final report.
 
+---
+
 **Author:** Rachael Kivuti   
